@@ -4,7 +4,7 @@
 
 ---
 
-## 🌍 Overview
+### 🌍 Overview
 Driving is an essential part of modern life, but it also comes with inherent risks.  
 According to the **World Health Organization (WHO)**, over **1.3 million people die annually** in road crashes, with fatigue, stress, and distraction being major causes.
 
@@ -12,7 +12,7 @@ According to the **World Health Organization (WHO)**, over **1.3 million people 
 
 ---
 
-## 🚦 Concept of Driver Wellness
+### 🚦 Concept of Driver Wellness
 Driver wellness extends beyond just safety — it includes **physical**, **mental**, and **emotional** well-being.
 
 | Factor | Description |
@@ -26,7 +26,7 @@ AI introduces a **data-driven, continuous**, and **objective** monitoring system
 
 ---
 
-## 🤖 Role of AI in Driver Wellness
+### 🤖 Role of AI in Driver Wellness
 AI transforms reactive safety into **proactive wellness intelligence** through:
 
 - **Real-Time Monitoring:** Cameras, wearables, and sensors track eye movement, facial expressions, heart rate, and grip strength.  
@@ -36,7 +36,7 @@ AI transforms reactive safety into **proactive wellness intelligence** through:
 
 ---
 
-## ⚙️ System Architecture
+### ⚙️ System Architecture
 1. **Input Layer:**  
    Cameras, heart-rate sensors, steering-wheel sensors, and accelerometers.
 
@@ -52,7 +52,7 @@ AI transforms reactive safety into **proactive wellness intelligence** through:
 
 ---
 
-## 🧩 Tech Stack
+### 🧩 Tech Stack
 - **Languages:** Python  
 - **Libraries:** OpenCV, Mediapipe, TensorFlow / PyTorch, NumPy, Pandas  
 - **Hardware (optional):** Arduino, Heart-rate sensor, IR Eye-blink sensor  
@@ -60,7 +60,7 @@ AI transforms reactive safety into **proactive wellness intelligence** through:
 
 ---
 
-## 📊 Workflow Diagram
+### 📊 Workflow Diagram
 ```text
 [ Sensors & Cameras ]
           ↓
