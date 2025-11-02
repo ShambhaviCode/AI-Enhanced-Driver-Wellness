@@ -1,6 +1,6 @@
 ### 🚗 AI-Enhanced Driver Wellness Monitoring
 
-### 🧠 Empowering safer, smarter, and stress-free driving through intelligent wellness detection
+#### 🧠 Empowering safer, smarter, and stress-free driving through intelligent wellness detection
 
 ---
 
